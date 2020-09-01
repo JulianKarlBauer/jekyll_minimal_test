@@ -4,4 +4,4 @@ description: Blablub
 theme: jekyll-theme-minimal
 
 
-my_var: 123
+my_var: "123"
