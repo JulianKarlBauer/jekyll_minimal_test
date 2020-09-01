@@ -2,3 +2,6 @@ title: github pages test
 description: Blablub
 
 theme: jekyll-theme-minimal
+
+
+my_var: 123
