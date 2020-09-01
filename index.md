@@ -5,3 +5,5 @@ blab
 
 
 # Header 1
+
+{{ site.my_var }}
