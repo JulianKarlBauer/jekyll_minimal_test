@@ -1,5 +1,5 @@
 ---
-my_var: "local_var" 
+my_var2: "local_var" 
 ---
 
 
@@ -11,7 +11,7 @@ blab
 # Header 1
 
 Local  
-{{ my_var }}
+{{ my_var2 }}
 
 Global  
 {{ site.my_var }}
