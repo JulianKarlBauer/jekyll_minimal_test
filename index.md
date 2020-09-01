@@ -12,6 +12,8 @@ blab
 
 Local  
 {{ page.my_var2 }}
+bla
+
 
 Global  
 {{ site.my_var }}
