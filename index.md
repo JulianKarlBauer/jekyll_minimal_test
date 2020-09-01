@@ -1,5 +1,4 @@
 ---
-# This is the a comment
 my_var: "local_var" 
 ---
 
@@ -11,8 +10,8 @@ blab
 
 # Header 1
 
-Local
+Local  
 {{ my_var }}
 
-Global
+Global  
 {{ site.my_var }}
