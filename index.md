@@ -11,7 +11,7 @@ blab
 # Header 1
 
 Local  
-{{ my_var2 }}
+{{ page.my_var2 }}
 
 Global  
 {{ site.my_var }}
